@@ -1,8 +1,8 @@
 cask "translatewindow" do
-  version "1.4.6"
+  version "1.4.6,20260709100109"
   sha256 "7e1cd341c39556b47a6273b9924f77738ce36111561218d6698c96892d6ef548"
 
-  url "https://release.bearchao.com/translate-window/updates/TranslateWindow-#{version}.dmg"
+  url "https://release.bearchao.com/translate-window/updates/TranslateWindow-#{version.csv.first}.dmg"
   name "TranslateWindow"
   name "小窗译"
   desc "AI translation for selected text, screenshots, and live windows"
