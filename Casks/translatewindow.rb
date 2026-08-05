@@ -1,6 +1,6 @@
 cask "translatewindow" do
-  version "1.4.7"
-  sha256 "ebf6997f1393aa22ab75160a1cdb34e97a26e2936fb42d692be291989a7cc4ab"
+  version "1.4.8"
+  sha256 "01590c25940ea10ead661bc8f7779b1021f3dc7a6e6bf5ee5fbbcc5cc39eab9a"
 
   url "https://release.bearchao.com/translate-window/updates/TranslateWindow-#{version}.dmg"
   name "TranslateWindow"
