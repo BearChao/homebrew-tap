@@ -1,13 +1,13 @@
 cask "translatewindow" do
-  version "1.6.7"
+  version "1.6.8"
 
   on_arm do
-    sha256 "a14e2f4c72c603a15e5cd177895e65b9a4c1b98f823acf01f5443c7f7cf4f0f0"
+    sha256 "497ee544cb17d6cab50d69955741743a29c6bf62ed06ad55e10ec18441143b20"
 
     url "https://release.bearchao.com/translate-window/updates/TranslateWindow-#{version}.dmg"
   end
   on_intel do
-    sha256 "d534fa4073f1b5d83fb5a00a8243ed2c322b32e521cac0598e68a775d07c64fc"
+    sha256 "576a145ada3d52b7ac95307d5bbbe7bcca00f8e37223216f331f2c3b2c2bcf02"
 
     url "https://release.bearchao.com/translate-window/updates/intel/TranslateWindow-Intel-#{version}.dmg"
   end
